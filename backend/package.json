@@ -9,8 +9,6 @@
     "readable",
     "react"
   ],
-  "author": "David Harris",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
     "cors": "^2.8.3",
